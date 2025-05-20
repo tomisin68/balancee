@@ -1,16 +1,47 @@
-# balancee
+# Vehicle Repair Booking App
 
-A new Flutter project.
+A premium Flutter application for booking vehicle repair services.
+
+## Features
+
+- User authentication
+- Browse repair stations
+- Book appointments
+- Form validation
+- Responsive UI
+
+## Screens
+
+1. **Login Screen**: Authenticate with email/password
+2. **Home Screen**: View available repair stations
+3. **Booking Screen**: Schedule a repair appointment
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK
+- Dart SDK
+- Android Studio/Xcode (for emulators)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository
+2. Run `flutter pub get`
+3. Run `flutter run`
+
+## Dependencies
+
+- provider: State management
+- intl: Date/time formatting
+
+## Demo
+
+[Insert screen recording link here]
+
+## Future Improvements
+
+- Real API integration
+- User profile management
+- Payment integration
+- Push notifications
