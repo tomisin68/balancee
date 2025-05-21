@@ -37,7 +37,7 @@ A premium Flutter application for booking vehicle repair services.
 
 ## Demo
 
-[Insert screen recording link here]
+[https://res.cloudinary.com/do9hhn8th/video/upload/v1747786407/Screen_Recording_20250521_010223_h0bdyz.mp4]
 
 ## Future Improvements
 
